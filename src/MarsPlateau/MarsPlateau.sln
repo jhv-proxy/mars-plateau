@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsPlateau", "MarsPlateau.csproj", "{4E61F5EA-6B0D-4DFD-B0C3-A7B5CF660D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsPlateauTests", "..\..\tests\MarsPlateauTests\MarsPlateauTests.csproj", "{C67790AD-2273-40C7-8C7D-60D785B272F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E61F5EA-6B0D-4DFD-B0C3-A7B5CF660D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E61F5EA-6B0D-4DFD-B0C3-A7B5CF660D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E61F5EA-6B0D-4DFD-B0C3-A7B5CF660D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E61F5EA-6B0D-4DFD-B0C3-A7B5CF660D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67790AD-2273-40C7-8C7D-60D785B272F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67790AD-2273-40C7-8C7D-60D785B272F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67790AD-2273-40C7-8C7D-60D785B272F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67790AD-2273-40C7-8C7D-60D785B272F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

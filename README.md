@@ -13,7 +13,7 @@ You can run the program through Docker. Please follow the instructions below:
 
 **Build Docker image**
 ```shell
-docker build -t plateau-game -f ./MarsPlateau/Dockerfile .
+docker build -t plateau-game -f ./src/MarsPlateau/Dockerfile ./src/MarsPlateau
 ```
 
 **Run the game**
